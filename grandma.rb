@@ -1,5 +1,5 @@
-def speak_to_grandma
-if (grandson)
+def speak_to_grandma(phrase)
+if phrase = 
 
 
 
