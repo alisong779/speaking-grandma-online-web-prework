@@ -1,5 +1,7 @@
 def speak_to_grandma(phrase)
-if phrase = 
+if phrase = "Hi Nana, how are you?"
+  puts "huh?! speak up, sonny!".upcase
+  
 
 
 
