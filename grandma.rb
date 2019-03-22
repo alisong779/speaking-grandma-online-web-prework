@@ -7,10 +7,9 @@ elsif phrase == "Hi!"
   "huh?! speak up, sonny!".upcase
 elsif phrase == "what did you eat today?".upcase
   "no, not since 1938!".upcase
-elsif phrase == "what".upcase
+else phrase == "what".upcase
   "no, not since 1938!".upcase
-else
-  "huh?! speak up, sonny!".upcase
+
 end
 end
 
