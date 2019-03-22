@@ -9,6 +9,8 @@ elseif phrase == "what did you eat today?".upcase
   puts "no, not since 1938!".upcase
 elseif phrase == "what".upcase
   puts "no, not since 1938!".upcase
+else
+  puts "huh?! speak up, sonny!".upcase
 end
 end
 
